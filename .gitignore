@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.env/
+temp/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+*.mp4
+*.wav
+
+!assets/sample4.mp4
+!assets/sample5.mp4
+!assets/isl_translation.mp4
+!assets/isl_translation (5).mp4
